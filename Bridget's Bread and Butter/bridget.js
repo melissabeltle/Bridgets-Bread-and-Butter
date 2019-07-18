@@ -5,11 +5,11 @@
   var time = 3000;
 
   // IMG
-  images[0] = 'img/bread1.jpeg';
-  images[1] = 'img/brownie.jpeg';
-  images[2] = 'img/cookie3.jpeg';
-  images[3] = 'img/muffin2.jpeg';
-  images[4] = 'img/cake1.jpeg';
+  images[0] = 'https://github.com/melissabeltle/Bridgets-Bread-and-Butter/blob/master/Bridget's%20Bread%20and%20Butter/img/bread1.jpeg';
+  images[1] = 'https://github.com/melissabeltle/Bridgets-Bread-and-Butter/blob/master/Bridget's%20Bread%20and%20Butter/img/brownie.jpeg';
+  images[2] = 'https://github.com/melissabeltle/Bridgets-Bread-and-Butter/blob/master/Bridget's%20Bread%20and%20Butter/img/cookie3.jpeg';
+  images[3] = 'https://github.com/melissabeltle/Bridgets-Bread-and-Butter/blob/master/Bridget's%20Bread%20and%20Butter/img/muffin2.jpeg';
+  images[4] = 'https://github.com/melissabeltle/Bridgets-Bread-and-Butter/blob/master/Bridget's%20Bread%20and%20Butter/img/cake1.jpeg';
 
   // img change
 
