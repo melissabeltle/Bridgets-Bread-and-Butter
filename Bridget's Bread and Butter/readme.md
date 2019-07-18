@@ -5,9 +5,9 @@
    The Links 'Order Online', 'Donate Now', 'Facebook' and 'Instagram' are currently the only active links.
   
 ## Files:
-   #index.html
-   #bridget.js (JS for photo carousel)
-   #bridget.css 
+   1. index.html
+   2. bridget.js (JS for photo carousel)
+   3. bridget.css 
 
 
 
